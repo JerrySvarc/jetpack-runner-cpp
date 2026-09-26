@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JetpackRunner", "JetpackRunner.vcxproj", "{B7CADEAD-0366-4A09-AA8A-0B3B3928747B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7CADEAD-0366-4A09-AA8A-0B3B3928747B}.Debug|x64.ActiveCfg = Debug|x64
+		{B7CADEAD-0366-4A09-AA8A-0B3B3928747B}.Debug|x64.Build.0 = Debug|x64
+		{B7CADEAD-0366-4A09-AA8A-0B3B3928747B}.Debug|x86.ActiveCfg = Debug|Win32
+		{B7CADEAD-0366-4A09-AA8A-0B3B3928747B}.Debug|x86.Build.0 = Debug|Win32
+		{B7CADEAD-0366-4A09-AA8A-0B3B3928747B}.Release|x64.ActiveCfg = Release|x64
+		{B7CADEAD-0366-4A09-AA8A-0B3B3928747B}.Release|x64.Build.0 = Release|x64
+		{B7CADEAD-0366-4A09-AA8A-0B3B3928747B}.Release|x86.ActiveCfg = Release|Win32
+		{B7CADEAD-0366-4A09-AA8A-0B3B3928747B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0036F33-61A2-422C-BF91-E480E16ED04B}
+	EndGlobalSection
+EndGlobal
